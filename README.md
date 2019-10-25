@@ -10,7 +10,7 @@ This tokenizes the raw input into numbers. Each number corresponds to an op code
 ### interpreter.c
 This runs the op codes.
 ### obfuscate.py
-Since the tokenizer doesn't care about any characters that are not semicolons, obfuscation is simple to do as we can just insert random characters between teh consecutive runs of semicolons. As long as the number of semicolons in each consecutive run of semicolons stays the same, the program will behave the same way.
+Since the tokenizer doesn't care about any characters that are not semicolons, obfuscation is simple to do as we can just insert random characters between the consecutive runs of semicolons. As long as the number of semicolons in each consecutive run of semicolons stays the same, the program will behave the same way.
 ### fib.;
 Semicolon files have a semicolon ';' as their file extension. This is a relatively simple semicolon program that prints out some fibonacci numbers
 ### fib\_obfuscated.;
