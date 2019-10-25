@@ -1,6 +1,6 @@
 # Semicolon
 
-Semicolon is an esotoric programming language that revolves around a single character: ';'. It's an interpreted programming language that stimulates a stack, memory tape, and set of instructions. This effectively makes the language turing complete.
+Semicolon is an esoteric programming language that revolves around a single character: ';'. It's an interpreted programming language that stimulates a stack, memory tape, and set of instructions. This effectively makes the language turing complete.
 
 ## Files
 ### main.c
